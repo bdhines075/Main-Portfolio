@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|c:\\users\\user\\source\\repos\\brandonhines_lab9_classescont\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|c:\\users\\user\\source\\repos\\brandonhines_lab9_classescont\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|c:\\users\\user\\source\\repos\\brandonhines_lab9_classescont\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|c:\\users\\user\\source\\repos\\brandonhines_lab9_classescont\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C86E66-44B0-48CC-BC77-2E332566C327}|BrandonHines_Lab9_ClassesCont.csproj|solutionrelative:about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\About.Designer.cs",
+              "RelativeDocumentMoniker": "About.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\About.Designer.cs",
+              "RelativeToolTip": "About.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAApwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:36:37.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\About.cs",
+              "RelativeDocumentMoniker": "About.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\About.cs",
+              "RelativeToolTip": "About.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:36:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\About.cs",
+              "RelativeDocumentMoniker": "About.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\About.cs [Design]",
+              "RelativeToolTip": "About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:17:44.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:39:50.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:12:26.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwHcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:27:32.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab9_ClassesCont\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:44:43.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

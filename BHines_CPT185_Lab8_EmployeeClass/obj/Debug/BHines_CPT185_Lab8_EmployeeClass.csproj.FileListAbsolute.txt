@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\bin\Debug\BHines_CPT185_Lab8_EmployeeClass.exe.config
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\bin\Debug\BHines_CPT185_Lab8_EmployeeClass.exe
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\bin\Debug\BHines_CPT185_Lab8_EmployeeClass.pdb
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.Form1.resources
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.Properties.Resources.resources
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.exe
+C:\Users\User\source\repos\BHines_CPT185_Lab8_EmployeeClass\obj\Debug\BHines_CPT185_Lab8_EmployeeClass.pdb

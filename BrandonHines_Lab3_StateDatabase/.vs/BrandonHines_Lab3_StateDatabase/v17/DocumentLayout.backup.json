@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\statetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|solutionrelative:statetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|solutionrelative:statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\statetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|solutionrelative:statetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|c:\\users\\user\\source\\repos\\brandonhines_lab3_statedatabase\\statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|solutionrelative:statedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89EFC70-0560-4F06-8482-C1F85197CBCE}|BrandonHines_Lab3_StateDatabase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4150605D-468B-4665-8985-6EBDD27F6FC5}|..\\StateDataLib\\StateDataLib.csproj|c:\\users\\user\\source\\repos\\statedatalib\\datamngr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:23:21.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateDetailsForm.cs",
+              "RelativeDocumentMoniker": "StateDetailsForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateDetailsForm.cs [Design]",
+              "RelativeToolTip": "StateDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:16:18.001Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateTableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateTableForm.cs",
+              "RelativeDocumentMoniker": "StateTableForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateTableForm.cs [Design]",
+              "RelativeToolTip": "StateTableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:26:04.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateDetailsForm.cs",
+              "RelativeDocumentMoniker": "StateDetailsForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateDetailsForm.cs",
+              "RelativeToolTip": "StateDetailsForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:24:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:50:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateTableForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateTableForm.cs",
+              "RelativeDocumentMoniker": "StateTableForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BrandonHines_Lab3_StateDatabase\\StateTableForm.cs",
+              "RelativeToolTip": "StateTableForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:26:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataMngr.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\StateDataLib\\DataMngr.cs",
+              "RelativeDocumentMoniker": "..\\StateDataLib\\DataMngr.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\StateDataLib\\DataMngr.cs",
+              "RelativeToolTip": "..\\StateDataLib\\DataMngr.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:36:29.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

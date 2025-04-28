@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\States.mdf
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\States_log.ldf
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\BrandonHines_Lab3_StateDatabase.exe.config
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\BrandonHines_Lab3_StateDatabase.exe
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\BrandonHines_Lab3_StateDatabase.pdb
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\StateDataLib.dll
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\bin\Debug\StateDataLib.pdb
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.Form1.resources
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.Properties.Resources.resources
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.StateDetailsForm.resources
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.StateTableForm.resources
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonH.C268457B.Up2Date
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.exe
+C:\Users\User\source\repos\BrandonHines_Lab3_StateDatabase\obj\Debug\BrandonHines_Lab3_StateDatabase.pdb

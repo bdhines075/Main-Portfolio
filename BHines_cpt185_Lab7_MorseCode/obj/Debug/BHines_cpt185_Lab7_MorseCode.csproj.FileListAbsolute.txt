@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\bin\Debug\BHines_cpt185_Lab7_MorseCode.exe.config
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\bin\Debug\BHines_cpt185_Lab7_MorseCode.exe
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\bin\Debug\BHines_cpt185_Lab7_MorseCode.pdb
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.Form1.resources
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.Properties.Resources.resources
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.exe
+C:\Users\User\source\repos\BHines_cpt185_Lab7_MorseCode\obj\Debug\BHines_cpt185_Lab7_MorseCode.pdb

@@ -1,0 +1,47 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('../images/bg1.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white; 
+}
+
+/* Changed the text color to white since background is dark. This makes the placeholder text in the boxes black so you can see em.*/
+input::placeholder,
+textarea::placeholder {
+    color: black !important;
+    opacity: 1;
+}
+
+/* White placeholder text was still showing on top of the black, made it look all weird. This got rid of it. Had to look this up.*/
+form label {
+    display: none;
+}
+
+.game-list a {
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 10px;
+}

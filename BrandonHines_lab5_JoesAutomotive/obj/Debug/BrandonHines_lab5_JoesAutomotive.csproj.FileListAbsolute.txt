@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\bin\Debug\BrandonHines_lab5_JoesAutomotive.exe.config
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\bin\Debug\BrandonHines_lab5_JoesAutomotive.exe
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\bin\Debug\BrandonHines_lab5_JoesAutomotive.pdb
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.Form1.resources
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.Properties.Resources.resources
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.exe
+C:\Users\User\source\repos\BrandonHines_lab5_JoesAutomotive\obj\Debug\BrandonHines_lab5_JoesAutomotive.pdb

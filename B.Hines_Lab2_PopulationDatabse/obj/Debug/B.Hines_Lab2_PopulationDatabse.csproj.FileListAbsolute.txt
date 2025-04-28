@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\bin\Debug\CityDB.mdf
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\bin\Debug\B.Hines_Lab2_PopulationDatabse.exe.config
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\bin\Debug\B.Hines_Lab2_PopulationDatabse.exe
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\bin\Debug\B.Hines_Lab2_PopulationDatabse.pdb
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.Form1.resources
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.Properties.Resources.resources
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.csproj.GenerateResource.cache
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.exe
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\obj\Debug\B.Hines_Lab2_PopulationDatabse.pdb
+C:\Users\User\source\repos\B.Hines_Lab2_PopulationDatabse\bin\Debug\CityDB_log.ldf
